@@ -1,0 +1,70 @@
+.header{
+    background-color: rgb(0, 64, 0);
+    color: seashell;
+    height: 100px;
+    line-height: 100px;
+    font-size: xx-large;
+}
+.mainbody{
+    background-color: seashell;
+    padding: 75px;
+    
+  
+
+}
+
+.footer{
+    position: fixed;
+    background-color: rgb(0, 64, 0);
+    color: seashell;
+    bottom: 0px;
+    right: 3px;
+    left: 3px;
+    height: 25px;
+    font-size: 10px;
+    line-height: 25px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+.common{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    background-color: seashell ;
+    padding: 13px;
+    overflow: hidden;
+
+}
+
+nav a{
+    padding: 13px;
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(14, 147, 14);
+
+}
+nav a:hover{
+    background-color: white;
+    }
+
+
+    ul{
+list-style-position: inside;
+    }
+    
+    ol{
+        list-style-position: inside;
+        
+    }
+    .tableauplaceholder{
+        text-align: right;
+    }
+    body{
+        text-align: center;
+    }
